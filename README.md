@@ -2,9 +2,7 @@
 
 ## Team Members
 
-- _Member 1 (placeholder)_
-- _Member 2 (placeholder)_
-- _Member 3 (placeholder)_
+- Harsha Vardhan Varma Kopanathi
 
 ---
 
